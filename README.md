@@ -32,3 +32,5 @@ When the button is pressed on the sender ESP32, the receiver instantly turns on 
 - Open Serial Monitor and find the MAC address of the receiver using:
 ```cpp
 Serial.println(WiFi.macAddress());
+```
+  
